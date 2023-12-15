@@ -1,4 +1,16 @@
 # QR Code Styling
+NyanRus ESMified version.
+
+To Build, type
+```
+pnpm i
+
+pnpm vite build
+```
+and use files in dist
+
+UNDER IS ORIGINAL README
+
 [![Version](https://img.shields.io/npm/v/qr-code-styling.svg)](https://www.npmjs.org/package/qr-code-styling)
 
 JavaScript library for generating QR codes with a logo and styling.
