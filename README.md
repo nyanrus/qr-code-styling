@@ -9,6 +9,9 @@ pnpm vite build
 ```
 and use files in dist
 
+I don't claim copyright in a part that I changed. (My Changes in this repo are CC0)
+So If you use this library, only the original author's MIT license is applied.
+
 UNDER IS ORIGINAL README
 
 [![Version](https://img.shields.io/npm/v/qr-code-styling.svg)](https://www.npmjs.org/package/qr-code-styling)
