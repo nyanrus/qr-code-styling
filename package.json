@@ -4,7 +4,7 @@
   "description": "Add a style and an image to your QR code",
   "main": "lib/qr-code-styling.js",
   "type": "module",
-  "types": "lib/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "lib"
   ],
